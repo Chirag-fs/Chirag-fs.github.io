@@ -38,7 +38,12 @@ section {
     color: black;
     text-transform: uppercase;
 }
-
+.heading1 {
+    font-size: 4rem;
+    padding-bottom: 1rem;
+    color: black;
+    text-transform: uppercase;
+}
 .heading span {
     color: var(--main-color);
     text-transform: uppercase;
